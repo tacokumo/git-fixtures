@@ -28,4 +28,4 @@ service:
     memory: "256Mi"
     flavor: "m1.xlarge"
 build:
-  image: "ghcr.io/tacokumo/tacokumo-bot:main"
+  image: "ghcr.io/tacokumo/tacokumo-bot:main-arm"
